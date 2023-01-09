@@ -17,7 +17,7 @@ if($connection) {
 ?><?php
 
 //deklasrasi variabel
-$db_host = "localhost";
+$db_host = "localhost"
 $db_user = "root";
 $db_pass = "";
 $db_name = "db_sekolah";    
